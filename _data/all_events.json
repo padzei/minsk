@@ -1,0 +1,16 @@
+[
+  {
+    "id": "event_20260408_071859",
+    "title": "Вебинар по Python и автоматизации",
+    "date": "2024-03-20T15:00:00",
+    "description": "На этом вебинаре мы разберем, как автоматизировать создание страниц на GitHub Pages с помощью Python. Научимся работать с GitHub API, генерировать HTML и обновлять сайт без ручного труда.",
+    "image_url": "https://your-cdn.com/images/webinar-python.jpg",
+    "tags": [
+      "python",
+      "automation",
+      "webinar",
+      "github"
+    ],
+    "created_at": "2026-04-08T07:18:59.691899"
+  }
+]
